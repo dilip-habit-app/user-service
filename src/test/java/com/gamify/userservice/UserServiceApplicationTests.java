@@ -1,4 +1,4 @@
-package com.gamify.user_service;
+package com.gamify.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
